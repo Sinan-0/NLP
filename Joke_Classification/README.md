@@ -16,7 +16,7 @@ Data downloaded from : https://github.com/taivop/joke-dataset/blob/master/
 
 Whole classification process
 
-### [Data Analysis.ipynb](Data Analysis.ipynb)
+### [Data_analysis.ipynb](Data_analysis.ipynb)
 
 Data Analysis and data cleaning
 
